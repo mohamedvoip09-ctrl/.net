@@ -15,4 +15,4 @@ Asegúrate de tener instalado Python en tu sistema antes de ejecutar el proyecto
 
 ## Autor
 - [**Mohamed**](https://github.com/mohamedvoip09-ctrl)
-- **Calculadora** - (https://github.com/mohamedvoip09-ctrl/.net)
+- [**Calculadora**](https://github.com/mohamedvoip09-ctrl/.net)
